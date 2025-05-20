@@ -135,7 +135,7 @@ The **Voting Survey** project provides a RESTful API for managing user registrat
 1. Fork the repository from GitHub.
 2. Clone your forked repository:
    ```sh
-   git clone https://github.com/MdMohsinHaider/voting-survey-spring-boot-backend.git
+   git clone https://github.com/arashdeep-git/voting-survey-springboot-backend
    ```
 3. Navigate to the project directory:
    ```sh
